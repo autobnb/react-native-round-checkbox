@@ -1,5 +1,5 @@
 {
-  "name": "rn-round-checkbox",
+  "name": "@dayladau/rn-round-checkbox",
   "version": "1.0.0",
   "peerDependencies": {
     "react-native-vector-icons": "*"

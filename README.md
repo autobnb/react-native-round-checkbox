@@ -4,7 +4,7 @@ Pure js, lightweight checkbox styled as in iOS. Depends on `react-native-vector-
 
 ### install
 
-`npm i --save rn-round-checkbox`
+`npm i --save @dayladau/rn-round-checkbox`
 
 ### Usage
 
